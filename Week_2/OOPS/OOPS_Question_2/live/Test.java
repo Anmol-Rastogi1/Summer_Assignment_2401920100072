@@ -1,6 +1,6 @@
 package OOPS_Questions_2.live;
 import OOPS_Questions_2.music.Playable;
-import OOPS_Questions_2.music.string.Veena;
+import OOPS_Questions_2.music.String.Veena;
 import OOPS_Questions_2.music.wind.Saxophone;
 
 public class Test {
