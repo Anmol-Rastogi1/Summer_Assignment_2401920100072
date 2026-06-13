@@ -1,4 +1,4 @@
-package OOPS_Questions_2.music.string;
+package OOPS_Questions_2.music.String;
 import OOPS_Questions_2.music.Playable;
 public class Veena implements Playable {
     @Override
